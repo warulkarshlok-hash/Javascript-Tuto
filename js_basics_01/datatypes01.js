@@ -43,3 +43,6 @@ let marks = [80, 85, 90];
 function greet() {        
   return "Hello JavaScript";
 }
+
+// https://www.geeksforgeeks.org/javascript/variables-datatypes-javascript/
+// https://www.geeksforgeeks.org/javascript/javascript-operators/
